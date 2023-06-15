@@ -47,7 +47,7 @@ function CredentialsListPage(){
             <Flex my={4} mx={4}>
                 <Heading>Credentials</Heading>
                 <Spacer />
-                <Button colorScheme="blue" onClick={handleButtonClick}>Add</Button>
+                <Button colorScheme="green" onClick={handleButtonClick}>Add</Button>
             </Flex>
             <Divider/>
             <SimpleGrid column={3} spacing={4}>

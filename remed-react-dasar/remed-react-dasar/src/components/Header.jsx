@@ -4,7 +4,7 @@ import {Link as RouterLink} from 'react-router-dom';
 
 function Header(){
     return(
-        <Box bg='blue.700' px={3} py={3} w='100%'>
+        <Box bg='green.700' px={3} py={3} w='100%'>
             <Flex>
                 <ChakraLink as={RouterLink} _hover={{textDecoration: "none"}} to='/'>
                     <Heading as='h1' size='lg' color='white'>Password Manager</Heading>

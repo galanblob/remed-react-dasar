@@ -54,7 +54,7 @@ function EditCredentialPage(){
     }
     return(
         <VStack spacing={4} w='100%'>
-            <Heading as='h2' size='xl'>
+            <Heading as='h2' size='xl' py={9}>
                 Edit Credentials
             </Heading>
             <Box w="80%">
@@ -76,7 +76,7 @@ function EditCredentialPage(){
                             <FormLabel>Password</FormLabel>
                             <Input type='text' placeholder='Please enter password' w="100%" onChange={(e) => setPassword(e.target.value)} value={password}/>
                         </FormControl>
-                        <Button colorScheme='blue' w='100%' type="submit">
+                        <Button colorScheme='green' w='100%' type="submit">
                             Edit Credential
                         </Button>
                     </VStack>
