@@ -1,0 +1,32 @@
+{
+  "credentials": [
+    {
+      "id": 1,
+      "nama": "test 123",
+      "url": "http://testurl.com",
+      "username": "test username",
+      "password": "Test password"
+    },
+    {
+      "id": 2,
+      "nama": "test 21312312",
+      "url": "12312312312",
+      "username": "412214",
+      "password": "124214"
+    },
+    {
+      "nama": "aasada",
+      "url": "fsafasfs",
+      "username": "afafassf",
+      "password": "afsasfa",
+      "id": 3
+    },
+    {
+      "nama": "knlanfnfln",
+      "url": "lnflnfasnfa",
+      "username": "afnalf",
+      "password": "alnfafnalfn",
+      "id": 4
+    }
+  ]
+}
